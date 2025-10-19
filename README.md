@@ -15,6 +15,8 @@ Florabot是一款专为现代都市人，尤其是爱花人士和频繁出差者
 ## Demo
 https://youtu.be/d8CpfsePx6g
 
+Flarobot具身智能机器人 Huggingface SeeedStudio + H... http://xhslink.com/o/2AZYxOZSCe3 <br/>复制后打开【小红书】查看笔记！
+
 ## Autoware Navigation
 ![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=5780887117539356265 skey=@crypt_d3056d94_a1d3f7371428acb8b5cb22ebe228a363 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/6cb88a56-8e71-4d1b-807e-105fa0e7102d)
 
@@ -23,12 +25,16 @@ https://youtu.be/d8CpfsePx6g
 ![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=8215838710526160045 skey=@crypt_d3056d94_a1d3f7371428acb8b5cb22ebe228a363 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/853fce56-6d64-46b3-a102-a5ec1212f2bf)
 
 ## StarAI Arm Calibrate
+TODO
 
 ## Collect Dataset with RTX 3090
+TODO
 
 ## Training on RTX A6000
+TODO
 
 ## Running Starai Arm Manipulator
+TODO
 
 
 ## Finetune GR00T N1.5 and Deploy on Jetson Thor
